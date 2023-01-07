@@ -1,3 +1,16 @@
 {{ define "main" }}
-	{{ .Content }}
+
+<div class="flex">
+
+  <div class="mr-5 flex-[0_0_300px]">
+    {{ partial "index-sidebar.html" . }}
+  </div>
+
+  <div class="prose">
+    {{ .Content }}
+  </div>
+  
+</div>
+
+
 {{ end }}
