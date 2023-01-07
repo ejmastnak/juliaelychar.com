@@ -1,8 +1,30 @@
 ---
-title: "Home"
+title: "Julia Elyachar"
 date: 2023-01-07
 ---
 
 # Julia Elyachar
 
-Here is some text
+I am an anthropologist broadly trained in economics, history of political and economic thought, political economy, social theory, Middle Eastern Studies, and Arabic language.
+I received my Ph.D. from Harvard University in Anthropology and Middle Eastern Studies.
+My M.A. (Harvard University) is in Anthropology, and my B.A. (Barnard College, Columbia University) is in Economics, with a Political Economy emphasis.
+Before moving to UC Irvine, where I was Associate Professor of Anthropology and Economics and Director of the Center for Global Peace and Conflict Studies, I taught and held research positions in Near Eastern Studies and at the International Center for Advanced Studies at New York University and at the Academy of Sciences and Arts in Ljubljana, Slovenia.
+I also draw on my training and professional experience in dance and improvisation as an ethnographer and teacher.
+
+My research revolves around a set of problems at the intersection of political economy, social theory, and anthropology.
+My primary research site is Egypt, where I studied and conducted ethnographic research for four and a half years in the 1990s, and where I continue to conduct research for shorter periods to this day.
+My research is also informed by my work at the Federal Reserve Bank of New York and by my research experience in Israel/Palestine and former Yugoslavia, mainly in Slovenia.
+I have been conducting research on finance and debt since my undergraduate studies.
+
+In my first book, Markets of Dispossession: NGOs, Economic Development, and the State in Cairo, I show that popular notions of the invisible hand and the free market are more “folk theory” than an accurate portrayal of how markets work and can be sustained. I make my argument by drawing on 2 years of fieldwork I conducted with bankers, borrowers, bureaucrats, workshop owners (and their wives and sisters), child workers, and NGO officials, and by engaging with longstanding debates in moral philosophy and political economy about the market, ethics, debt, and economic subjectivities. In Egypt, I propose, “empowering debt” to solve problems of the poor came at the expense of long-termer sources of economic value. This kind of development policy became possible in the late 20th century after social scientists discovered that cultural practices (such as hanging out in coffeehouses, hanging out, visiting, and socializing) once condemned as a “waste of time” were in fact a source of “social capital” and economic value. But turning culture and sociality into new sources of profit, I argued, was a new and insidious form of dispossession. Promoting short-term gain and the endless expansion of the neoliberal free market would, in local terms, provoke the attacks of the evil eye. Neoliberal free market expansion would eventually implode.
+
+
+<p>
+I followed up on my initial theorization of NGOs, states, and international organizations as part of one field of power in my second project, where I turned to analysis of management theory, business practice, and NGOs on a global scale. This resulted in a series of articles on NGOs, the corporate world, and social theory, focusing on the concepts of “best practices,” “next practices,” “bottom of the pyramid,” and “tacit knowledge.”
+</p>
+
+<p>
+In my third project, I brought together political economy with linguistics and semiotics to develop a theory of social infrastructures. My conceptual work here was motivated by a simple question: why did practices of consumption, movement, and comportment analyzed so brilliantly by Egyptian writers and filmmakers that were central to political economy disappear in social analysis, with the exception of occasional references to “popular,” or sha‘bi Cairenes?  In this project I retell the history of “capitulations” inherited by the Ottomans from the Byzantine Empire that created a different financial and property infrastructure for those self-identified as “local” versus those linked to foreigners. I draw on theories of Pierre Bourdieu, George Henry Mead and others to explain how the constitution of sha‘bi identity is central to a longer history of political economy and political practice in Egypt. I develop the concept of “phatic labor” to show how gendered labor of making and maintaining channels of communication creates stable “social infrastructures of communicative channels” that can be understood as a semiotic commons of the Egyptian masses. In my writings on the Egyptian Revolution of 2011 and its aftermath, I go on to show how these social infrastructures and exemplary figures from sha‘bi culture became agentive mobilizing devices in times of political revolt. I am finishing this book for publication in 2016.
+
+My research is also informed by my years of living and working in Slovenia, former Yugoslavia. At first glance, Egypt and Slovenia  could not be more different. Egypt is the most populous country  of the Arab world. Slovenia is a small country with only 2 million  inhabitants and is part of the European Union. The comparison  I make in my research began with accidents of my own biography:  I have family origins in Palestine and married into Slovenia. And yet these two countries used to be part of a now disappeared  political geography. They are both “post-socialist” and “post-Empire” in a political geography that ended with the end of WWI.  With the hundredth anniversary of WWI, and the current devastation  of the post WWII Middle East order, those once obscure histories and geographic intersections  have reemerged in important ways that demand immersion in history, geography, and ethnography. This perspective informs my current work in multiple ways, in writing on “Botanical Decolonization” with Tomaz Mastnak and Tom Boellstorff; in my forthcoming book, Vital Infrastructures: A Semiotic Political Economy of Revolt; and my book in process: Empire of Commerce:  Rethinking Political Economy from the Levant.
+
