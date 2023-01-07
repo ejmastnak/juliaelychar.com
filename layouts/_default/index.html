@@ -1,12 +1,13 @@
 {{ define "main" }}
 
-<div class="flex">
+<div class="md:flex">
 
-  <div class="mr-5 flex-[0_0_300px]">
+  <div class="md:mr-5 md:grow-0 md:shrink-0 md:basis-[21rem]">
     {{ partial "index-sidebar.html" . }}
   </div>
 
   <div class="prose">
+    <h1 class="hidden md:block text-4xl font-semibold mb-8">Julia Elyachar</h1>
     {{ .Content }}
   </div>
   

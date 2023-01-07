@@ -7,7 +7,6 @@
 
     <link href="https://fonts.cdnfonts.com/css/libre-franklin" rel="stylesheet">
 
-
     {{ if hugo.IsProduction }}
       {{ $styles := resources.Get "css/tailwind.css" }}
       {{ $styles = $styles | resources.PostCSS }}

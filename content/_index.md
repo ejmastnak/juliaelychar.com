@@ -3,8 +3,6 @@ title: "Julia Elyachar"
 date: 2023-01-07
 ---
 
-# Julia Elyachar
-
 I am an anthropologist broadly trained in economics, history of political and economic thought, political economy, social theory, Middle Eastern Studies, and Arabic language.
 I received my Ph.D. from Harvard University in Anthropology and Middle Eastern Studies.
 My M.A. (Harvard University) is in Anthropology, and my B.A. (Barnard College, Columbia University) is in Economics, with a Political Economy emphasis.
