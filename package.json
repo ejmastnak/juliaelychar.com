@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-tw": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/main.css"
+    "compile-tailwind": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/main.css"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@tailwindcss/typography": "github:tailwindcss/typography",
     "tailwindcss": "^3.2.4"
   }
 }
