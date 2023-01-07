@@ -7,12 +7,23 @@
 
     <link href="https://fonts.cdnfonts.com/css/libre-franklin" rel="stylesheet">
 
-    {{ $style := resources.Get "css/main.css" }}    
-    <link rel="stylesheet" href="{{ $style.Permalink }}"> 
+
+    {{ if hugo.IsProduction }}
+      {{ $styles := resources.Get "css/tailwind.css" }}
+      {{ $styles = $styles | resources.PostCSS }}
+      {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
+      <link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
+    {{ else }}
+      <!-- Rely on manually compiled stylesheet in development -->
+      {{ $styles := resources.Get "css/main.css" }}
+      <link rel="stylesheet" href="{{ $styles.Permalink }}">
+    {{ end }}
 
   </head>
   <body>
+    <div class="max-w-4xl mx-auto py-8 px-6">
     {{ block "main" . }}
     {{ end }}
+    </div>
   </body>
 </html>
