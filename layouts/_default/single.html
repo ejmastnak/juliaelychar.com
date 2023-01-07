@@ -1,0 +1,11 @@
+{{ define "main" }}
+	{{ .Content }}
+
+{{ with .GitInfo }}
+<p>
+  {{ . | jsonify }}
+  Page version: {{ .AbbreviatedHash }} {{ .CommitDate.Format "2006-01-02"}}
+</p>
+{{ end }}
+
+{{ end }}
